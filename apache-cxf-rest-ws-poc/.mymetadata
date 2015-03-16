@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="apache-cxf-rest-ws-poc"
+  id="myeclipse.1424058950906"
+  context-root="/apache-cxf-rest-ws-poc"
+  j2ee-spec="6.0"
+  archive="apache-cxf-rest-ws-poc.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
